@@ -1,5 +1,7 @@
 # Analyzing-Amazon-sales-Data
 
+#### Summary of Amazon Sales Data Analysis Project
+
 The project focuses on analyzing Amazon sales data to uncover trends, key metrics, and factors affecting sales performance. Using the Extract-Transform-Load (ETL) process, data is extracted from a CSV file and transformed for analysis.
 
 Key Components:
